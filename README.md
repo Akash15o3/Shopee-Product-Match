@@ -65,7 +65,7 @@ https://www.kaggle.com/kozodoi/timm-pytorch-image-models
 
 **[1] Understanding the Problem - EDA + Phase + NLP**
       
-***Notebook:*** 
+***Notebook*** 
 - https://github.com/sudha-vijayakumar/CMPE256_SHOPEE_TERMPROJECT/blob/main/src/%5B1%5D%20Understanding-the-problem-eda-phase-nlp.ipynb
 
 ***Goal***
@@ -88,7 +88,7 @@ There are multiple ways to find similar products,
 
 **[2] RESNET152 + TFDIF**
       
-***Notebook:*** 
+***Notebook*** 
 - https://github.com/sudha-vijayakumar/CMPE256_SHOPEE_TERMPROJECT/blob/main/src/%5B2%5D%20Resnet152%20%2B%20Tfdif.ipynb
       
 ***Goal***
@@ -109,7 +109,7 @@ There are multiple ways to find similar products,
 
 **[3] TRAIN & INFER using EfficientNetB[3,5,6]/ eca-nfnet-l0 Image+TFIDF**
 
-***Notebook:***
+***Notebook***
 - https://github.com/sudha-vijayakumar/CMPE256_SHOPEE_TERMPROJECT/blob/main/src/%5B3.1%5D%20EffNetB%5B3%2C5%2C6%5D%20%2B%20nfNet10%20(Training).ipynb
 - https://github.com/sudha-vijayakumar/CMPE256_SHOPEE_TERMPROJECT/blob/main/src/%5B3.2%5D%20EffNetB%5B3%2C5%2C6%5D%20%2B%20nfNet10%20%2B%20Tfdif(Inference).ipynb
                     
@@ -131,7 +131,7 @@ There are multiple ways to find similar products,
 
 **[4] Ensemble (EffNetB6 + nfnet-l0) [Inference]**
 
-***Notebook:*** 
+***Notebook*** 
 - https://github.com/sudha-vijayakumar/CMPE256_SHOPEE_TERMPROJECT/blob/main/src/%5B4%5D%20Ensemble%20Effnetb6%20%2B%20nfnet-10%20%2B%20Tfdif.ipynb
 
 ***Goal***
