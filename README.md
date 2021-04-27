@@ -64,6 +64,8 @@ https://www.kaggle.com/kozodoi/timm-pytorch-image-models
 # PROJECT STORY & RESULTS 
 
 **[1] Understanding the Problem - EDA + Phase + NLP**
+      https://github.com/sudha-vijayakumar/CMPE256_SHOPEE_TERMPROJECT/blob/main/src/%5B1%5D%20Understanding-the-problem-eda-phase-nlp.ipynb
+
 ***Goal***
 - Data Exploration of the image dataset and the meta-data.
 
@@ -83,7 +85,8 @@ There are multiple ways to find similar products,
  - Will be trying baseline models to find similar images, similar titles.
 
 **[2] RESNET152 + TFDIF**
-
+      https://github.com/sudha-vijayakumar/CMPE256_SHOPEE_TERMPROJECT/blob/main/src/%5B2%5D%20Resnet152%20%2B%20Tfdif.ipynb
+      
 ***Goal***
 - To use [RESNET152] pretrained model as the backbone to train SHOPEE image dataset for product matching by [IMAGE].
 
@@ -100,8 +103,10 @@ There are multiple ways to find similar products,
 ***Step-3***
 - To replace [RESNET152] model with the EfficientNet [3,5,6] models and train them on the SHOPEE Dataset, to see if the current [F1] Score can be improved.
 
-**[3] EfficientNetB[3,5,6] Image+TFIDF**
-
+**[3] TRAIN & INFER using EfficientNetB[3,5,6] Image+TFIDF**
+      https://github.com/sudha-vijayakumar/CMPE256_SHOPEE_TERMPROJECT/blob/main/src/%5B3.1%5D%20EffNetB%5B3%2C5%2C6%5D%20%2B%20nfNet10%20(Training).ipynb
+      https://github.com/sudha-vijayakumar/CMPE256_SHOPEE_TERMPROJECT/blob/main/src/%5B3.2%5D%20EffNetB%5B3%2C5%2C6%5D%20%2B%20nfNet10%20%2B%20Tfdif(Inference).ipynb
+                    
 ***Goal***
 - To use EfficientNetB[3,5,6] pretrained models as the backbone to train SHOPEE image dataset for product matching by [IMAGE].
 
@@ -119,6 +124,8 @@ There are multiple ways to find similar products,
 - To replace [EfficientNet] model with the [eca-nfnet-10] model and make inferences on the SHOPEE Dataset, to see if the current [F1] Score can be improved.
 
 **[4] eca-nfnet-l0 + TF-DIF**
+      https://github.com/sudha-vijayakumar/CMPE256_SHOPEE_TERMPROJECT/blob/main/src/%5B4%5D%20Ensemble%20Effnetb6%20%2B%20nfnet-10%20%2B%20Tfdif.ipynb
+      
 ***Goal***
 - To use [eca-nfnet-10] pretrained model as the backbone to make predictions for the SHOPEE image dataset for product matching by [IMAGE].
 
@@ -157,6 +164,7 @@ How to ensemble different pretrained models to make predictions on the SHOPEE da
 - To try domain specific proven model [Large Scale Multimodal Classification Using an Ensemble of Transformer Models and Co-Attention](https://paperswithcode.com/paper/large-scale-multimodal-classification-using)
 
 # Results
+  https://github.com/sudha-vijayakumar/CMPE256_SHOPEE_TERMPROJECT/blob/main/src/%5B5%5D%20Metric%20Evaluation.ipynb
 
 ## F1 SCORE
 ![Results](https://github.com/sudha-vijayakumar/CMPE256_SHOPEE_TERMPROJECT/blob/main/report/DIAGRAMS/F1_SCORE_REPORT.png?raw=True)
