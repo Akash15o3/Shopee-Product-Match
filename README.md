@@ -53,13 +53,13 @@ https://www.kaggle.com/kozodoi/timm-pytorch-image-models
 
 # ML PIPELINES
 
-![High-level](https://github.com/sudha-vijayakumar/CMPE256-SHOPEE/blob/main/diagrams/High-level.jpg?raw=True)
+![High-level](https://github.com/sudha-vijayakumar/CMPE256_SHOPEE_TERMPROJECT/blob/main/report/DIAGRAMS/High-level.jpg?raw=True)
 
 **FIND SIMILARITY BY PRODUCT IMAGE**
-![Image](https://github.com/sudha-vijayakumar/CMPE256-SHOPEE/blob/main/diagrams/ImageProcessing.jpg?raw=True)
+![Image](https://github.com/sudha-vijayakumar/CMPE256_SHOPEE_TERMPROJECT/blob/main/report/DIAGRAMS/ImageProcessing.jpg?raw=True)
 
 **FIND SIMILARITY BY PRODUCT TITLE**
-![Text](https://github.com/sudha-vijayakumar/CMPE256-SHOPEE/blob/main/diagrams/TextProcessing.jpg?raw=True)
+![Text](https://github.com/sudha-vijayakumar/CMPE256_SHOPEE_TERMPROJECT/blob/main/report/DIAGRAMS/TextProcessing.jpg?raw=True)
 
 # PROJECT STORY & RESULTS 
 
@@ -158,5 +158,11 @@ How to ensemble different pretrained models to make predictions on the SHOPEE da
 
 # Results
 
-![Results](https://github.com/sudha-vijayakumar/CMPE256-SHOPEE/blob/main/diagrams/F1_SCORE_REPORT.png?raw=True)
+## F1 SCORE
+![Results](https://github.com/sudha-vijayakumar/CMPE256_SHOPEE_TERMPROJECT/blob/main/report/DIAGRAMS/F1_SCORE_REPORT.png?raw=True)
+
+## TRAINING TIME
+![TIME](https://github.com/sudha-vijayakumar/CMPE256_SHOPEE_TERMPROJECT/blob/main/report/DIAGRAMS/Training_Time.png?raw=True)
+
+
 
